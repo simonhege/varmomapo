@@ -1,6 +1,6 @@
 module github.com/simonhege/varmomapo
 
-go 1.20
+go 1.21
 
 require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.42.0
